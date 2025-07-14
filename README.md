@@ -1,0 +1,1 @@
+Booth's Multiplication Algorithm is an efficient method for multiplying two signed binary numbers in 2's complement notation. It reduces the number of addition and subtraction operations by encoding the multiplier. This documentation provides an overview of the Verilog implementation of Booth’s Algorithm using a Finite State Machine (FSM).
